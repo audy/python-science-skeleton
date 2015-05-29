@@ -44,5 +44,3 @@ doctests for testing.
 
 TODO: I would like to automatically build all notebooks (during testing?) and
 fail if a notebook doesn't build.
-
-<kbd>boop</kbd>
