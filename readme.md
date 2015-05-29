@@ -1,5 +1,7 @@
 # jupyter-bootstrap
 
+[![Build Status](https://travis-ci.org/audy/python-data-science-skeleton.svg?branch=master)](https://travis-ci.org/audy/python-data-science-skeleton)
+
 aka IPython Notebook Data Science Bootstrap Boilerplate Project Skeleton. I have
 no idea what to call this thing.
 
