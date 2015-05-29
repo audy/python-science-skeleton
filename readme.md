@@ -15,10 +15,31 @@ writing re-usable code as seperate Python modules, with a decent testing
 framework in place, and also verify that notebooks build without error (I guess
 this is a form of integration testing).
 
-## testing
+## Get Started
+
+Install dependencies
+
+```sh
+# create and activate a new virtual environment
+pyenv virtualenv 2.7.9 $PWD
+pyenv activate $PWD
+
+# install dependencies
+pip install -r requirements.txt
+
+# start notebook
+ipython notebook
+
+```
+
+Write functions common to all notebooks in `lib/common.py` to start. Use
+doctests for testing.
+
+## Testing
 
 `nosetests --with-doctests`
 
-## building notebooks
+## Building Notebooks
 
-(TODO)
+TODO: I would like to automatically build all notebooks (during testing?) and
+fail if a notebook doesn't build.
