@@ -1,9 +1,9 @@
-# jupyter-bootstrap
+# python-data-science-skeleton
 
 [![Build Status](https://travis-ci.org/audy/python-data-science-skeleton.svg?branch=master)](https://travis-ci.org/audy/python-data-science-skeleton)
 
-aka IPython Notebook Data Science Bootstrap Boilerplate Project Skeleton. I have
-no idea what to call this thing.
+aka IPython Jupyter Notebook Data Science Bootstrap Boilerplate Project
+Skeleton. I have no idea what to call this thing.
 
 Austin G. Davis-Richardson
 
@@ -32,7 +32,6 @@ pip install -r requirements.txt
 
 # start notebook
 ipython notebook
-
 ```
 
 Write functions common to all notebooks in `lib/common.py` to start. Use
