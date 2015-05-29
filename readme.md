@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/audy/python-data-science-skeleton.svg?branch=master)](https://travis-ci.org/audy/python-data-science-skeleton)
 
-![Alchemist by Joseph Wright](http://i.imgur.com/27v4JeN.jpg)
+![Alchemist by Joseph Wright](http://i.imgur.com/157olho.jpg)
 
 aka IPython Jupyter Notebook Data Science Bootstrap Boilerplate Project
 Skeleton. I have no idea what to call this thing.
