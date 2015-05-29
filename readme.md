@@ -1,6 +1,7 @@
 # jupyter-bootstrap
 
-aka IPython Notebook Data Science Bootstrap Boilerplate Project Skeleton
+aka IPython Notebook Data Science Bootstrap Boilerplate Project Skeleton. I have
+no idea what to call this thing.
 
 Austin G. Davis-Richardson
 
