@@ -1,15 +1,11 @@
 # python-data-science-skeleton [![Build Status](https://travis-ci.org/audy/python-data-science-skeleton.svg?branch=master)](https://travis-ci.org/audy/python-data-science-skeleton)
 
-
 ![Alchemist by Joseph Wright](http://i.imgur.com/157olho.jpg)
 
-aka IPython Jupyter Notebook Data Science Bootstrap Boilerplate Project
-Skeleton. I have no idea what to call this thing.
+A handy project skeleton for data analysis projects using IPython notebook.
+Includes boilerplate for writing external modules and testing.
 
 Austin G. Davis-Richardson
-
-A project skeleton for data analysis projects using bootstrap. Includes
-boilerplate for writing external modules and testing.
 
 ## Motivation
 
