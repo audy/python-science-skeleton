@@ -1,4 +1,4 @@
-SOURCES=$(shell find . -depth 1 -type f -name "*.ipynb")
+SOURCES=$(shell find . -name "*.ipynb")
 HTML=$(SOURCES:%.ipynb=%.html)
 
 %.html: %.ipynb
