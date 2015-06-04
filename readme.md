@@ -67,3 +67,4 @@ Plz do! I :heart: pull requests.
   notebooks with output on a separate branch.
 - [ ] Experiment with sending output from notebooks built by Travis (ideally on
   GitHub or IPyNbViewer).
+- [ ] Add example Git hooks.
