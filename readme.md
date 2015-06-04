@@ -55,3 +55,8 @@ make # builds HTML by default
 
 ## Building Notebooks
 
+`make` will build any and all notebooks in `$PWD`.
+
+## Contributing
+
+Plz do! I :heart: pull requests.
