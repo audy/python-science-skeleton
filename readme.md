@@ -60,3 +60,10 @@ make # builds HTML by default
 ## Contributing
 
 Plz do! I :heart: pull requests.
+
+## TODO
+
+- [ ] Scrub output from notebooks on `master`. Possibly automate committing
+  notebooks with output on a separate branch.
+- [ ] Experiment with sending output from notebooks built by Travis (ideally on
+  GitHub or IPyNbViewer).
