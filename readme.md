@@ -55,5 +55,3 @@ make # builds HTML by default
 
 ## Building Notebooks
 
-TODO: I would like to automatically build all notebooks (during testing?) and
-fail if a notebook doesn't build.
