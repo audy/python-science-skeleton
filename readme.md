@@ -10,10 +10,13 @@ Austin G. Davis-Richardson
 ## Motivation
 
 I like ~~IPython~~ Jupyter notebook for interactive computing/data analysis but
-I find it difficult to write maintainable code. This is an effort to promote
-writing re-usable code as seperate Python modules, with a decent testing
-framework in place, and also verify that notebooks build without error (I guess
-this is a form of integration testing).
+I find it difficult to write maintainable code.
+
+This is an effort to promote writing better, re-usable code as seperate Python
+modules, with continuous integration using Travis, and also verify that
+notebooks build without error (I guess this is a form of integration testing).
+It is importanant that you never commit your notebooks to the master branch
+while they're in a failing state.
 
 ## Get Started
 
