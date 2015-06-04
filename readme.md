@@ -36,7 +36,19 @@ doctests for testing.
 
 ## Testing
 
-`nosetests --with-doctests`
+To run unit tests:
+
+```sh
+nosetests --with-doctests
+```
+
+To build notebooks:
+
+```sh
+make # builds HTML by default
+```
+
+(Travis will do both of these things and fail if you commit a notebook in a non-functioning state)
 
 ## Building Notebooks
 
