@@ -48,7 +48,11 @@ nosetests --with-doctests
 To build notebooks:
 
 ```sh
-make # builds HTML by default
+# builds HTML by default
+make 
+
+# or, build notebooks in parallel
+make -j 
 ```
 
 (Travis will do both of these things and fail if you commit a notebook in a non-functioning state)
@@ -63,8 +67,5 @@ Plz do! I :heart: pull requests.
 
 ## TODO
 
-- [ ] Scrub output from notebooks on `master`. Possibly automate committing
-  notebooks with output on a separate branch.
 - [ ] Experiment with sending output from notebooks built by Travis (ideally on
   GitHub or IPyNbViewer).
-- [ ] Add example Git hooks.
