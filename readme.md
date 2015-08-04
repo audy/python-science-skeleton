@@ -1,4 +1,4 @@
-# python-data-science-skeleton [![Build Status](https://travis-ci.org/audy/python-data-science-skeleton.svg?branch=master)](https://travis-ci.org/audy/python-data-science-skeleton)
+# python-science-skeleton [![Build Status](https://travis-ci.org/audy/python-data-science-skeleton.svg?branch=master)](https://travis-ci.org/audy/python-data-science-skeleton)
 
 ![Alchemist by Joseph Wright](http://i.imgur.com/157olho.jpg)
 
